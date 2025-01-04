@@ -1,0 +1,12 @@
+{
+  "domain": "buildinglink",
+  "name": "BuildingLink",
+  "codeowners": [
+    "@samanthavbarron"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/samanthavbarron/buildinglink-integration",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/samanthavbarron/buildinglink-integration/issues",
+  "version": "0.1.0"
+}
